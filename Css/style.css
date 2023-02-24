@@ -36,6 +36,7 @@ body{
 }
 .mbox h1{
   font-size: 3rem;
+  color: #604800;
 }
 button {
     display: inline-block;
